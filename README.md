@@ -42,20 +42,22 @@ Six tables provided for the course in a MySQL database (not publicly available):
 │
 ├── README_id.md                   <- Indonesian version of this file.
 │
-├── analisis_bluebird_MAIN.ipynb   <- Main notebook: business understanding, cleaning,
+├── bluebird_analysis.ipynb        <- Main notebook: business understanding, cleaning,
 │                                     exploration, visualization, exporting, conclusions.
 │
-└── outputs                        <- Created when the notebook runs.
-    ├── raw                        <- The six source tables exactly as loaded (CSV).
-    ├── cleaned                    <- The cleaned tables used in the analysis (CSV).
+├── data                           <- Datasets, created when the notebook runs.
+│   ├── raw                        <- The six source tables exactly as loaded (CSV).
+│   └── cleaned                    <- The cleaned tables used in the analysis (CSV).
+│
+└── outputs                        <- Analysis results, created when the notebook runs.
     ├── exceptions                 <- Excluded or flagged records with reasons, and eVoucher review lists.
     ├── reports                    <- Data quality reports and the statistical test summary.
     └── charts                     <- Charts saved from Part 3 (PNG).
 ```
 
-Exported CSV files larger than 25 MB are split into numbered parts (for example `bb_trips_cleaned_part1.csv` to `bb_trips_cleaned_part5.csv`) with the same header, so they can be opened separately or combined in order.
+Exported CSV files larger than 50 MB are split into numbered parts (for example `bb_trips_cleaned_part1.csv` to `bb_trips_cleaned_part3.csv`) with the same header, so they can be opened separately or combined in order.
 
-The main notebook, [`analisis_bluebird_MAIN.ipynb`](analisis_bluebird_MAIN.ipynb), has four parts:
+The main notebook, [`bluebird_analysis.ipynb`](bluebird_analysis.ipynb), has four parts:
 1. **Data Cleaning:** standardize service labels, flag data problems, and exclude 7,091 trips (2.2%) with a negative distance or negative booking-to-meter delay. Other tables keep all rows and use flag columns instead.
 2. **Data Exploration:** request failures, driver supply, utilization, pools, eVoucher patterns, and statistical tests.
 3. **Data Visualization:** charts for the main findings.
@@ -81,3 +83,8 @@ The main notebook, [`analisis_bluebird_MAIN.ipynb`](analisis_bluebird_MAIN.ipynb
 6. **Improve data recording:** synchronize app and legacy system clocks, reject negative distances at input, and confirm the trips table is complete.
 
 Baselines for each KPI are in the notebook; target values should be set by management.
+
+## 6. Contact
+- Name: _(to be added)_
+- Email: _(to be added)_
+- Linkedin: _(to be added)_

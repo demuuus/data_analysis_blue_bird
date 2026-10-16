@@ -42,20 +42,22 @@ Enam tabel dari database MySQL yang disediakan untuk kelas (tidak tersedia untuk
 │
 ├── README_id.md                   <- File ini (bahasa Indonesia).
 │
-├── analisis_bluebird_MAIN.ipynb   <- Notebook utama: pemahaman bisnis, pembersihan data,
+├── bluebird_analysis.ipynb        <- Notebook utama: pemahaman bisnis, pembersihan data,
 │                                     eksplorasi, visualisasi, export, dan kesimpulan.
 │
-└── outputs                        <- Dibuat saat notebook dijalankan.
-    ├── raw                        <- Enam tabel sumber persis seperti saat dimuat (CSV).
-    ├── cleaned                    <- Tabel bersih yang dipakai dalam analisis (CSV).
+├── data                           <- Dataset, dibuat saat notebook dijalankan.
+│   ├── raw                        <- Enam tabel sumber persis seperti saat dimuat (CSV).
+│   └── cleaned                    <- Tabel bersih yang dipakai dalam analisis (CSV).
+│
+└── outputs                        <- Hasil analisis, dibuat saat notebook dijalankan.
     ├── exceptions                 <- Record yang dikeluarkan atau ditandai beserta alasannya, dan daftar tinjauan eVoucher.
     ├── reports                    <- Laporan kualitas data dan ringkasan uji statistik.
     └── charts                     <- Grafik dari Part 3 (PNG).
 ```
 
-File CSV export yang lebih besar dari 25 MB dipecah menjadi beberapa bagian bernomor (misalnya `bb_trips_cleaned_part1.csv` sampai `bb_trips_cleaned_part5.csv`) dengan header yang sama, sehingga bisa dibuka satu per satu atau digabung kembali sesuai urutan.
+File CSV export yang lebih besar dari 50 MB dipecah menjadi beberapa bagian bernomor (misalnya `bb_trips_cleaned_part1.csv` sampai `bb_trips_cleaned_part3.csv`) dengan header yang sama, sehingga bisa dibuka satu per satu atau digabung kembali sesuai urutan.
 
-Notebook utama, [`analisis_bluebird_MAIN.ipynb`](analisis_bluebird_MAIN.ipynb), terdiri dari empat bagian:
+Notebook utama, [`bluebird_analysis.ipynb`](bluebird_analysis.ipynb), terdiri dari empat bagian:
 1. **Data Cleaning:** menstandarkan label layanan, menandai data bermasalah, dan mengeluarkan 7.091 trip (2,2%) dengan jarak negatif atau delay booking-ke-meter negatif. Tabel lain tidak dihapus barisnya dan memakai kolom flag.
 2. **Data Exploration:** kegagalan request, pasokan pengemudi, utilisasi, pool, pola eVoucher, dan uji statistik.
 3. **Data Visualization:** grafik untuk temuan utama.
@@ -81,3 +83,8 @@ Notebook utama, [`analisis_bluebird_MAIN.ipynb`](analisis_bluebird_MAIN.ipynb), 
 6. **Perbaiki pencatatan data:** samakan jam di aplikasi dan sistem lama, tolak jarak negatif saat input, dan pastikan tabel trip lengkap.
 
 Baseline setiap KPI ada di notebook; nilai targetnya sebaiknya ditentukan oleh manajemen.
+
+## 6. Contact
+- Name: _(belum diisi)_
+- Email: _(belum diisi)_
+- Linkedin: _(belum diisi)_
