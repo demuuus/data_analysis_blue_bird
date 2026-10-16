@@ -1,0 +1,287 @@
+﻿company_id,company_name,industry
+CORP-BNK-001,PT. Global Banking 62 Tbk,Banking
+CORP-BNK-002,PT. Global Banking 104 Tbk,Banking
+CORP-BNK-003,PT. Mandiri Banking 317 Tbk,Banking
+CORP-BNK-004,PT. Mandiri Banking 334 Tbk,Banking
+CORP-BNK-005,PT. Utama Banking 189 Tbk,Banking
+CORP-BNK-006,PT. Global Banking 246 Tbk,Banking
+CORP-BNK-007,PT. Sukses Banking 154 Tbk,Banking
+CORP-BNK-008,PT. Sukses Banking 80 Tbk,Banking
+CORP-BNK-009,PT. Nusantara Banking 111 Tbk,Banking
+CORP-BNK-010,PT. Jaya Banking 178 Tbk,Banking
+CORP-BNK-011,PT. Sentosa Banking 372 Tbk,Banking
+CORP-BNK-012,PT. Sentosa Banking 273 Tbk,Banking
+CORP-BNK-013,PT. Makmur Banking 57 Tbk,Banking
+CORP-BNK-014,PT. Perkasa Banking 309 Tbk,Banking
+CORP-BNK-015,PT. Nusantara Banking 175 Tbk,Banking
+CORP-BNK-016,PT. Perkasa Banking 233 Tbk,Banking
+CORP-BNK-017,PT. Makmur Banking 34 Tbk,Banking
+CORP-BNK-018,PT. Perkasa Banking 209 Tbk,Banking
+CORP-BNK-019,PT. Mandiri Banking 190 Tbk,Banking
+CORP-BNK-020,PT. Utama Banking 214 Tbk,Banking
+CORP-BNK-021,PT. Nusantara Banking 150 Tbk,Banking
+CORP-BNK-022,PT. Utama Banking 61 Tbk,Banking
+CORP-BNK-023,PT. Perkasa Banking 63 Tbk,Banking
+CORP-BNK-024,PT. Global Banking 149 Tbk,Banking
+CORP-BNK-025,PT. Nusantara Banking 58 Tbk,Banking
+CORP-BNK-026,PT. Sentosa Banking 288 Tbk,Banking
+CORP-BNK-027,PT. Makmur Banking 177 Tbk,Banking
+CORP-BNK-028,PT. Makmur Banking 298 Tbk,Banking
+CORP-BNK-029,PT. Mandiri Banking 330 Tbk,Banking
+CORP-BNK-030,PT. Sukses Banking 182 Tbk,Banking
+CORP-BNK-031,PT. Global Banking 138 Tbk,Banking
+CORP-BNK-032,PT. Mandiri Banking 196 Tbk,Banking
+CORP-BNK-033,PT. Sukses Banking 164 Tbk,Banking
+CORP-BNK-034,PT. Sukses Banking 115 Tbk,Banking
+CORP-BNK-035,PT. Abadi Banking 101 Tbk,Banking
+CORP-BNK-036,PT. Makmur Banking 16 Tbk,Banking
+CORP-BNK-037,PT. Makmur Banking 89 Tbk,Banking
+CORP-BNK-038,PT. Sentosa Banking 295 Tbk,Banking
+CORP-BNK-039,PT. Perkasa Banking 182 Tbk,Banking
+CORP-BNK-040,PT. Global Banking 358 Tbk,Banking
+CORP-BNK-041,PT. Nusantara Banking 380 Tbk,Banking
+CORP-BNK-042,PT. Sukses Banking 365 Tbk,Banking
+CORP-BNK-043,PT. Perkasa Banking 383 Tbk,Banking
+CORP-BNK-044,PT. Sentosa Banking 251 Tbk,Banking
+CORP-BNK-045,PT. Mandiri Banking 315 Tbk,Banking
+CORP-BNK-046,PT. Makmur Banking 199 Tbk,Banking
+CORP-BNK-047,PT. Global Banking 358 Tbk 1,Banking
+CORP-BNK-048,PT. Nusantara Banking 206 Tbk,Banking
+CORP-BNK-049,PT. Mandiri Banking 180 Tbk,Banking
+CORP-BNK-050,PT. Sukses Banking 145 Tbk,Banking
+CORP-BNK-051,PT. Sentosa Banking 210 Tbk,Banking
+CORP-BNK-052,PT. Nusantara Banking 218 Tbk,Banking
+CORP-BNK-053,PT. Jaya Banking 323 Tbk,Banking
+CORP-BNK-054,PT. Mandiri Banking 17 Tbk,Banking
+CORP-BNK-055,PT. Nusantara Banking 121 Tbk,Banking
+CORP-BNK-056,PT. Perkasa Banking 185 Tbk,Banking
+CORP-CNS-001,PT. Abadi Consulting 62 Tbk,Consulting
+CORP-CNS-002,PT. Global Consulting 197 Tbk,Consulting
+CORP-CNS-003,PT. Perkasa Consulting 192 Tbk,Consulting
+CORP-CNS-004,PT. Utama Consulting 6 Tbk,Consulting
+CORP-CNS-005,PT. Mandiri Consulting 256 Tbk,Consulting
+CORP-CNS-006,PT. Nusantara Consulting 209 Tbk,Consulting
+CORP-CNS-007,PT. Sentosa Consulting 316 Tbk,Consulting
+CORP-CNS-008,PT. Utama Consulting 181 Tbk,Consulting
+CORP-CNS-009,PT. Nusantara Consulting 132 Tbk,Consulting
+CORP-CNS-010,PT. Mandiri Consulting 141 Tbk,Consulting
+CORP-CNS-011,PT. Abadi Consulting 103 Tbk,Consulting
+CORP-CNS-012,PT. Abadi Consulting 388 Tbk,Consulting
+CORP-CNS-013,PT. Utama Consulting 209 Tbk,Consulting
+CORP-CNS-014,PT. Sukses Consulting 301 Tbk,Consulting
+CORP-CNS-015,PT. Jaya Consulting 260 Tbk,Consulting
+CORP-CNS-016,PT. Makmur Consulting 394 Tbk,Consulting
+CORP-CNS-017,PT. Abadi Consulting 67 Tbk,Consulting
+CORP-CNS-018,PT. Abadi Consulting 337 Tbk,Consulting
+CORP-CNS-019,PT. Makmur Consulting 333 Tbk,Consulting
+CORP-CNS-020,PT. Abadi Consulting 284 Tbk,Consulting
+CORP-CNS-021,PT. Sukses Consulting 94 Tbk,Consulting
+CORP-CNS-022,PT. Nusantara Consulting 303 Tbk,Consulting
+CORP-CNS-023,PT. Mandiri Consulting 204 Tbk,Consulting
+CORP-CNS-024,PT. Makmur Consulting 71 Tbk,Consulting
+CORP-CNS-025,PT. Nusantara Consulting 316 Tbk,Consulting
+CORP-CNS-026,PT. Perkasa Consulting 301 Tbk,Consulting
+CORP-CNS-027,PT. Sukses Consulting 399 Tbk,Consulting
+CORP-CNS-028,PT. Sukses Consulting 367 Tbk,Consulting
+CORP-CNS-029,PT. Nusantara Consulting 31 Tbk,Consulting
+CORP-CNS-030,PT. Abadi Consulting 284 Tbk 1,Consulting
+CORP-CNS-031,PT. Global Consulting 303 Tbk,Consulting
+CORP-CNS-032,PT. Abadi Consulting 248 Tbk,Consulting
+CORP-CNS-033,PT. Global Consulting 66 Tbk,Consulting
+CORP-CNS-034,PT. Mandiri Consulting 340 Tbk,Consulting
+CORP-CNS-035,PT. Sentosa Consulting 122 Tbk,Consulting
+CORP-CNS-036,PT. Mandiri Consulting 7 Tbk,Consulting
+CORP-CNS-037,PT. Sukses Consulting 317 Tbk,Consulting
+CORP-CNS-038,PT. Perkasa Consulting 298 Tbk,Consulting
+CORP-CNS-039,PT. Jaya Consulting 9 Tbk,Consulting
+CORP-CNS-040,PT. Sentosa Consulting 339 Tbk,Consulting
+CORP-CNS-041,PT. Jaya Consulting 287 Tbk,Consulting
+CORP-CNS-042,PT. Nusantara Consulting 108 Tbk,Consulting
+CORP-CNS-043,PT. Nusantara Consulting 245 Tbk,Consulting
+CORP-CNS-044,PT. Sentosa Consulting 87 Tbk,Consulting
+CORP-CNS-045,PT. Nusantara Consulting 145 Tbk,Consulting
+CORP-CNS-046,PT. Utama Consulting 54 Tbk,Consulting
+CORP-CNS-047,PT. Sentosa Consulting 3 Tbk,Consulting
+CORP-CNS-048,PT. Abadi Consulting 43 Tbk,Consulting
+CORP-CNS-049,PT. Jaya Consulting 138 Tbk,Consulting
+CORP-CNS-050,PT. Makmur Consulting 323 Tbk,Consulting
+CORP-FMC-001,PT. Nusantara FMCG 31 Tbk,FMCG
+CORP-FMC-002,PT. Perkasa FMCG 222 Tbk,FMCG
+CORP-FMC-003,PT. Sentosa FMCG 259 Tbk,FMCG
+CORP-FMC-004,PT. Abadi FMCG 256 Tbk,FMCG
+CORP-FMC-005,PT. Abadi FMCG 391 Tbk,FMCG
+CORP-FMC-006,PT. Sukses FMCG 336 Tbk,FMCG
+CORP-FMC-007,PT. Abadi FMCG 9 Tbk,FMCG
+CORP-FMC-008,PT. Makmur FMCG 337 Tbk,FMCG
+CORP-FMC-009,PT. Makmur FMCG 197 Tbk,FMCG
+CORP-FMC-010,PT. Jaya FMCG 398 Tbk,FMCG
+CORP-FMC-011,PT. Nusantara FMCG 393 Tbk,FMCG
+CORP-FMC-012,PT. Abadi FMCG 300 Tbk,FMCG
+CORP-FMC-013,PT. Sentosa FMCG 55 Tbk,FMCG
+CORP-FMC-014,PT. Global FMCG 75 Tbk,FMCG
+CORP-FMC-015,PT. Nusantara FMCG 84 Tbk,FMCG
+CORP-FMC-016,PT. Abadi FMCG 18 Tbk,FMCG
+CORP-FMC-017,PT. Utama FMCG 283 Tbk,FMCG
+CORP-FMC-018,PT. Global FMCG 372 Tbk,FMCG
+CORP-FMC-019,PT. Makmur FMCG 92 Tbk,FMCG
+CORP-FMC-020,PT. Abadi FMCG 30 Tbk,FMCG
+CORP-FMC-021,PT. Mandiri FMCG 65 Tbk,FMCG
+CORP-FMC-022,PT. Global FMCG 112 Tbk,FMCG
+CORP-FMC-023,PT. Nusantara FMCG 280 Tbk,FMCG
+CORP-FMC-024,PT. Sentosa FMCG 46 Tbk,FMCG
+CORP-FMC-025,PT. Sukses FMCG 303 Tbk,FMCG
+CORP-FMC-026,PT. Makmur FMCG 315 Tbk,FMCG
+CORP-FMC-027,PT. Utama FMCG 164 Tbk,FMCG
+CORP-FMC-028,PT. Jaya FMCG 137 Tbk,FMCG
+CORP-FMC-029,PT. Mandiri FMCG 181 Tbk,FMCG
+CORP-FMC-030,PT. Makmur FMCG 317 Tbk,FMCG
+CORP-FMC-031,PT. Abadi FMCG 248 Tbk,FMCG
+CORP-FMC-032,PT. Mandiri FMCG 150 Tbk,FMCG
+CORP-FMC-033,PT. Global FMCG 217 Tbk,FMCG
+CORP-FMC-034,PT. Abadi FMCG 48 Tbk,FMCG
+CORP-FMC-035,PT. Abadi FMCG 372 Tbk,FMCG
+CORP-FMC-036,PT. Makmur FMCG 371 Tbk,FMCG
+CORP-FMC-037,PT. Abadi FMCG 354 Tbk,FMCG
+CORP-FMC-038,PT. Makmur FMCG 34 Tbk,FMCG
+CORP-FMC-039,PT. Utama FMCG 100 Tbk,FMCG
+CORP-FMC-040,PT. Global FMCG 108 Tbk,FMCG
+CORP-FMC-041,PT. Perkasa FMCG 151 Tbk,FMCG
+CORP-FMC-042,PT. Sentosa FMCG 126 Tbk,FMCG
+CORP-FMC-043,PT. Utama FMCG 207 Tbk,FMCG
+CORP-FMC-044,PT. Mandiri FMCG 220 Tbk,FMCG
+CORP-FMC-045,PT. Sentosa FMCG 280 Tbk,FMCG
+CORP-FMC-046,PT. Abadi FMCG 374 Tbk,FMCG
+CORP-FMC-047,PT. Perkasa FMCG 31 Tbk,FMCG
+CORP-FMC-048,PT. Sukses FMCG 340 Tbk,FMCG
+CORP-FMC-049,PT. Jaya FMCG 144 Tbk,FMCG
+CORP-FMC-050,PT. Global FMCG 382 Tbk,FMCG
+CORP-FMC-051,PT. Perkasa FMCG 228 Tbk,FMCG
+CORP-FMC-052,PT. Jaya FMCG 240 Tbk,FMCG
+CORP-FMC-053,PT. Jaya FMCG 213 Tbk,FMCG
+CORP-FMC-054,PT. Abadi FMCG 262 Tbk,FMCG
+CORP-FMC-055,PT. Jaya FMCG 17 Tbk,FMCG
+CORP-FMC-056,PT. Utama FMCG 283 Tbk 1,FMCG
+CORP-FMC-057,PT. Nusantara FMCG 174 Tbk,FMCG
+CORP-MDA-001,PT. Jaya Media 269 Tbk,Media
+CORP-MDA-002,PT. Utama Media 196 Tbk,Media
+CORP-MDA-003,PT. Sukses Media 246 Tbk,Media
+CORP-MDA-004,PT. Sentosa Media 325 Tbk,Media
+CORP-MDA-005,PT. Global Media 169 Tbk,Media
+CORP-MDA-006,PT. Perkasa Media 114 Tbk,Media
+CORP-MDA-007,PT. Global Media 134 Tbk,Media
+CORP-MDA-008,PT. Sukses Media 183 Tbk,Media
+CORP-MDA-009,PT. Utama Media 268 Tbk,Media
+CORP-MDA-010,PT. Makmur Media 110 Tbk,Media
+CORP-MDA-011,PT. Mandiri Media 225 Tbk,Media
+CORP-MDA-012,PT. Utama Media 234 Tbk,Media
+CORP-MDA-013,PT. Mandiri Media 375 Tbk,Media
+CORP-MDA-014,PT. Utama Media 277 Tbk,Media
+CORP-MDA-015,PT. Abadi Media 14 Tbk,Media
+CORP-MDA-016,PT. Global Media 93 Tbk,Media
+CORP-MDA-017,PT. Utama Media 375 Tbk,Media
+CORP-MDA-018,PT. Global Media 71 Tbk,Media
+CORP-MDA-019,PT. Makmur Media 235 Tbk,Media
+CORP-MDA-020,PT. Global Media 133 Tbk,Media
+CORP-MDA-021,PT. Sukses Media 229 Tbk,Media
+CORP-MDA-022,PT. Global Media 55 Tbk,Media
+CORP-MDA-023,PT. Perkasa Media 151 Tbk,Media
+CORP-MDA-024,PT. Global Media 203 Tbk,Media
+CORP-MDA-025,PT. Sentosa Media 191 Tbk,Media
+CORP-MDA-026,PT. Sentosa Media 69 Tbk,Media
+CORP-MDA-027,PT. Jaya Media 204 Tbk,Media
+CORP-MDA-028,PT. Sukses Media 391 Tbk,Media
+CORP-MDA-029,PT. Global Media 113 Tbk,Media
+CORP-MDA-030,PT. Global Media 46 Tbk,Media
+CORP-MDA-031,PT. Utama Media 234 Tbk 1,Media
+CORP-MNG-001,PT. Makmur Mining 311 Tbk,Mining
+CORP-MNG-002,PT. Makmur Mining 192 Tbk,Mining
+CORP-MNG-003,PT. Sukses Mining 245 Tbk,Mining
+CORP-MNG-004,PT. Nusantara Mining 26 Tbk,Mining
+CORP-MNG-005,PT. Sukses Mining 156 Tbk,Mining
+CORP-MNG-006,PT. Jaya Mining 235 Tbk,Mining
+CORP-MNG-007,PT. Perkasa Mining 358 Tbk,Mining
+CORP-MNG-008,PT. Sukses Mining 3 Tbk,Mining
+CORP-MNG-009,PT. Jaya Mining 324 Tbk,Mining
+CORP-MNG-010,PT. Perkasa Mining 128 Tbk,Mining
+CORP-MNG-011,PT. Jaya Mining 358 Tbk,Mining
+CORP-MNG-012,PT. Utama Mining 356 Tbk,Mining
+CORP-MNG-013,PT. Makmur Mining 233 Tbk,Mining
+CORP-MNG-014,PT. Mandiri Mining 247 Tbk,Mining
+CORP-MNG-015,PT. Global Mining 181 Tbk,Mining
+CORP-MNG-016,PT. Global Mining 241 Tbk,Mining
+CORP-MNG-017,PT. Utama Mining 244 Tbk,Mining
+CORP-MNG-018,PT. Mandiri Mining 293 Tbk,Mining
+CORP-MNG-019,PT. Sentosa Mining 385 Tbk,Mining
+CORP-MNG-020,PT. Sukses Mining 244 Tbk,Mining
+CORP-MNG-021,PT. Perkasa Mining 48 Tbk,Mining
+CORP-MNG-022,PT. Abadi Mining 242 Tbk,Mining
+CORP-MNG-023,PT. Global Mining 102 Tbk,Mining
+CORP-MNG-024,PT. Jaya Mining 343 Tbk,Mining
+CORP-MNG-025,PT. Abadi Mining 384 Tbk,Mining
+CORP-MNG-026,PT. Sukses Mining 240 Tbk,Mining
+CORP-MNG-027,PT. Nusantara Mining 335 Tbk,Mining
+CORP-MNG-028,PT. Mandiri Mining 206 Tbk,Mining
+CORP-MNG-029,PT. Global Mining 43 Tbk,Mining
+CORP-MNG-030,PT. Makmur Mining 274 Tbk,Mining
+CORP-MNG-031,PT. Jaya Mining 392 Tbk,Mining
+CORP-MNG-032,PT. Jaya Mining 127 Tbk,Mining
+CORP-MNG-033,PT. Global Mining 63 Tbk,Mining
+CORP-MNG-034,PT. Utama Mining 287 Tbk,Mining
+CORP-MNG-035,PT. Sukses Mining 307 Tbk,Mining
+CORP-MNG-036,PT. Sukses Mining 372 Tbk,Mining
+CORP-MNG-037,PT. Abadi Mining 86 Tbk,Mining
+CORP-MNG-038,PT. Abadi Mining 123 Tbk,Mining
+CORP-MNG-039,PT. Abadi Mining 67 Tbk,Mining
+CORP-MNG-040,PT. Sentosa Mining 151 Tbk,Mining
+CORP-MNG-041,PT. Abadi Mining 287 Tbk,Mining
+CORP-MNG-042,PT. Nusantara Mining 328 Tbk,Mining
+CORP-MNG-043,PT. Abadi Mining 331 Tbk,Mining
+CORP-MNG-044,PT. Global Mining 210 Tbk,Mining
+CORP-MNG-045,PT. Mandiri Mining 237 Tbk,Mining
+CORP-MNG-046,PT. Makmur Mining 260 Tbk,Mining
+CORP-MNG-047,PT. Makmur Mining 329 Tbk,Mining
+CORP-TEC-001,PT. Sentosa Tech 39 Tbk,Tech StartUp
+CORP-TEC-002,PT. Nusantara Tech 270 Tbk,Tech StartUp
+CORP-TEC-003,PT. Global Tech 227 Tbk,Tech StartUp
+CORP-TEC-004,PT. Sukses Tech 78 Tbk,Tech StartUp
+CORP-TEC-005,PT. Global Tech 395 Tbk,Tech StartUp
+CORP-TEC-006,PT. Utama Tech 54 Tbk,Tech StartUp
+CORP-TEC-007,PT. Sentosa Tech 334 Tbk,Tech StartUp
+CORP-TEC-008,PT. Jaya Tech 218 Tbk,Tech StartUp
+CORP-TEC-009,PT. Sentosa Tech 148 Tbk,Tech StartUp
+CORP-TEC-010,PT. Perkasa Tech 315 Tbk,Tech StartUp
+CORP-TEC-011,PT. Abadi Tech 271 Tbk,Tech StartUp
+CORP-TEC-012,PT. Nusantara Tech 220 Tbk,Tech StartUp
+CORP-TEC-013,PT. Sukses Tech 24 Tbk,Tech StartUp
+CORP-TEC-014,PT. Global Tech 188 Tbk,Tech StartUp
+CORP-TEC-015,PT. Abadi Tech 131 Tbk,Tech StartUp
+CORP-TEC-016,PT. Global Tech 81 Tbk,Tech StartUp
+CORP-TEC-017,PT. Global Tech 310 Tbk,Tech StartUp
+CORP-TEC-018,PT. Abadi Tech 13 Tbk,Tech StartUp
+CORP-TEC-019,PT. Utama Tech 16 Tbk,Tech StartUp
+CORP-TEC-020,PT. Utama Tech 310 Tbk,Tech StartUp
+CORP-TEC-021,PT. Mandiri Tech 369 Tbk,Tech StartUp
+CORP-TEC-022,PT. Nusantara Tech 109 Tbk,Tech StartUp
+CORP-TEC-023,PT. Perkasa Tech 26 Tbk,Tech StartUp
+CORP-TEC-024,PT. Global Tech 57 Tbk,Tech StartUp
+CORP-TEC-025,PT. Nusantara Tech 284 Tbk,Tech StartUp
+CORP-TEC-026,PT. Utama Tech 101 Tbk,Tech StartUp
+CORP-TEC-027,PT. Sukses Tech 222 Tbk,Tech StartUp
+CORP-TEC-028,PT. Makmur Tech 224 Tbk,Tech StartUp
+CORP-TEC-029,PT. Jaya Tech 16 Tbk,Tech StartUp
+CORP-TEC-030,PT. Jaya Tech 140 Tbk,Tech StartUp
+CORP-TEC-031,PT. Mandiri Tech 60 Tbk,Tech StartUp
+CORP-TEC-032,PT. Makmur Tech 198 Tbk,Tech StartUp
+CORP-TEC-033,PT. Jaya Tech 380 Tbk,Tech StartUp
+CORP-TEC-034,PT. Abadi Tech 317 Tbk,Tech StartUp
+CORP-TEC-035,PT. Mandiri Tech 376 Tbk,Tech StartUp
+CORP-TEC-036,PT. Jaya Tech 343 Tbk,Tech StartUp
+CORP-TEC-037,PT. Mandiri Tech 174 Tbk,Tech StartUp
+CORP-TEC-038,PT. Mandiri Tech 85 Tbk,Tech StartUp
+CORP-TEC-039,PT. Mandiri Tech 371 Tbk,Tech StartUp
+CORP-TEC-040,PT. Mandiri Tech 55 Tbk,Tech StartUp
+CORP-TEC-041,PT. Sentosa Tech 178 Tbk,Tech StartUp
+CORP-TEC-042,PT. Makmur Tech 362 Tbk,Tech StartUp
+CORP-TEC-043,PT. Abadi Tech 218 Tbk,Tech StartUp
+CORP-TEC-044,PT. Perkasa Tech 361 Tbk,Tech StartUp
+CORP-TEC-045,PT. Makmur Tech 65 Tbk,Tech StartUp

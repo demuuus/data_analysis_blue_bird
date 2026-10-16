@@ -1,0 +1,7 @@
+﻿table,rows_before_exclusion,rows_excluded,rows,columns,exact_duplicate_rows,missing_cells,missing_primary_keys,duplicate_primary_keys
+clients,286,0,286,3,0,0,0,0
+trips,318098,7091,311007,34,0,256110,0,0
+shifts,252524,0,252524,17,0,0,0,0
+drivers,4055,0,4055,8,0,0,0,0
+pools,8,0,8,6,0,0,0,0
+requests,289622,0,289622,10,0,63820,0,0

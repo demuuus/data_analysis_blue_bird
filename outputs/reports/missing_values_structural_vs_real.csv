@@ -1,0 +1,7 @@
+﻿table,missing_cells_total,empty_cells_in_new_clean_columns,structural_nulls_expected,real_missing
+clients,0,0,0,0
+trips,256110,1185,254925,0
+shifts,0,0,0,0
+drivers,0,0,0,0
+pools,0,0,0,0
+requests,63820,25026,38794,0

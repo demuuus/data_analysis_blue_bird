@@ -1,0 +1,16 @@
+﻿test,question,H0 (no effect),statistic,p_value,effect size,effect_kind,effect_label,decision
+Kruskal-Wallis H,Do zones differ in trips per shift?,all groups have the same distribution,"25,142.51",0.0,epsilon-squared = 0.100,epsilon2,medium,reject H0
+Kruskal-Wallis H,Do pools differ in trips per shift?,all groups have the same distribution,"3,811.02",0.0,epsilon-squared = 0.015,epsilon2,small,reject H0
+Kruskal-Wallis H,Do vehicle types differ?,all groups have the same distribution,3.84,0.27942549026822733,epsilon-squared = 0.000,epsilon2,negligible,cannot reject H0
+Kruskal-Wallis H,Do weekdays differ?,all groups have the same distribution,3.10,0.7957618028241621,epsilon-squared = 0.000,epsilon2,negligible,cannot reject H0
+Mann-Whitney U,Do morning-start shifts get more trips than evening-start shifts?,the two groups have the same distribution,"5,293,963,702.00",0.0,rank-biserial r (Morning start higher if > 0) = 0.142,r,small,reject H0
+Mann-Whitney U,Do permanent (Tetap) and partner (Mitra) drivers differ?,the two groups have the same distribution,"4,550,205,337.50",0.43371681637001447,rank-biserial r (Tetap higher if > 0) = 0.002,r,negligible,cannot reject H0
+Chi-square independence,Is having 0 trips independent of the zone?,zone and 'zero-trip shift' are independent,"16,577.56",0.0,Cramer's V = 0.256,r,small,reject H0
+Spearman correlation,"Does requests per driver, city-wide move with trips per shift? (n = 252,524)",rho = 0 (no monotonic relation),0.06,7.052866058522329e-196,Spearman rho = 0.059,r,negligible,reject H0
+Spearman correlation,"Does requests per driver, same zone move with trips per shift? (n = 252,524)",rho = 0 (no monotonic relation),0.27,0.0,Spearman rho = 0.273,r,small,reject H0
+Spearman correlation,"Does driver rating move with trips per shift? (n = 252,524)",rho = 0 (no monotonic relation),-0.00,0.1765079730002242,Spearman rho = -0.003,r,negligible,cannot reject H0
+Spearman correlation,"Does tenure in days (shifts on/after join date only) move with trips per shift? (n = 208,171)",rho = 0 (no monotonic relation),-0.00,0.05253588251457839,Spearman rho = -0.004,r,negligible,cannot reject H0
+Nested-model F-test (OLS),"Does pool explain trips per shift AFTER controlling zone, start time, employment, vehicle, weekday?",pool coefficients are all 0,0.76,0.6201853781583662,partial eta-squared = 0.000,epsilon2,negligible,cannot reject H0
+Two-proportion z-test,Do CBD requests in the 4 failure-peak hours fail more often than all other requests?,both failure rates are equal,177.10,0.0,Cohen's h = 0.874,h,large,reject H0
+Two-proportion z-test,Are B2B (eVoucher) Airport trips at weekends/night more often than Non-B2B Airport trips?,both rates are equal,84.08,0.0,Cohen's h = 0.903,h,large,reject H0
+Linear-regression slope t-test,Is weekly ritase trending up or down over the 12 full weeks?,slope = 0 (no trend),0.83,0.4282769927033966,Spearman rho with time = 0.077,r,negligible,cannot reject H0

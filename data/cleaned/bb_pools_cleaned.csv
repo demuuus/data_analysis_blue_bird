@@ -1,0 +1,9 @@
+﻿pool_id,pool_name,region_area,distance_to_soetta_km,distance_to_cbd_km,primary_zone_affinity
+PL-BSD,Pool BSD,Tangerang Selatan,32.0,26.0,Mixed
+PL-CGK,Pool Bandara Soetta,Tangerang,3.5,28.0,Airport-heavy
+PL-CPT,Pool Ciputat,Tangerang Selatan,35.0,18.0,Mixed
+PL-HLM,Pool Halim,Jakarta Timur,41.0,12.0,Mixed
+PL-KJT,Pool Kramat Jati,Jakarta Timur,38.0,14.0,CBD-heavy
+PL-KLG,Pool Kelapa Gading,Jakarta Utara,26.0,16.0,CBD-heavy
+PL-MPG,Pool Mampang,Jakarta Selatan,30.0,8.0,CBD-heavy
+PL-PRI,Pool Puri,Jakarta Barat,22.0,15.0,Mixed

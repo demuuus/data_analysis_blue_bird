@@ -1,0 +1,7 @@
+﻿relationship,unmatched_unique_ids
+Trips -> Drivers,0
+Trips -> Shifts,0
+Trips -> Clients,0
+Shifts -> Drivers,0
+Drivers -> Pools,0
+Requests -> Trips,0
