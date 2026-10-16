@@ -83,8 +83,3 @@ Notebook utama, [`bluebird_analysis.ipynb`](bluebird_analysis.ipynb), terdiri da
 6. **Perbaiki pencatatan data:** samakan jam di aplikasi dan sistem lama, tolak jarak negatif saat input, dan pastikan tabel trip lengkap.
 
 Baseline setiap KPI ada di notebook; nilai targetnya sebaiknya ditentukan oleh manajemen.
-
-## 6. Contact
-- Name: _(belum diisi)_
-- Email: _(belum diisi)_
-- Linkedin: _(belum diisi)_
