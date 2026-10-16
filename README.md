@@ -81,11 +81,3 @@ The main notebook, [`analisis_bluebird_MAIN.ipynb`](analisis_bluebird_MAIN.ipynb
 6. **Improve data recording:** synchronize app and legacy system clocks, reject negative distances at input, and confirm the trips table is complete.
 
 Baselines for each KPI are in the notebook; target values should be set by management.
-<<<<<<< HEAD
-
-## 6. Contact
-- Name: _(to be added)_
-- Email: _(to be added)_
-- Linkedin: _(to be added)_
-=======
->>>>>>> 3c26acfac744ec518f6259897621a626c13cb35b
